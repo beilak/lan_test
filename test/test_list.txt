@@ -1,0 +1,7 @@
+test/input1.txt;10
+test/input2.txt;5
+test/input3.txt;2
+test/input4.txt;1
+test/input5.txt;0
+test/input6.txt;20
+test/input7.txt;5
